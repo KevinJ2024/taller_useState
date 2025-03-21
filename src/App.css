@@ -2,6 +2,8 @@
   min-height: 100vh;
   max-width: 100vw;
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-direction: column;
-  flex-shrink: 1;
+  gap: 2rem;
 }

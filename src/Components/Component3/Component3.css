@@ -1,0 +1,40 @@
+#div-3{
+    width: 12rem;
+    height: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px black;
+    border-radius: 40px;
+    flex-direction: column;
+}
+
+#select{
+    border: solid 1px red;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+    outline: none;
+}
+
+#text-3{
+    font-size: 1rem;
+    text-align: center;
+    background-color: black;
+    border-radius: 40px;
+    border: solid 1px red;
+}
+
+#button3{
+    border: solid 1px red;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    padding: 0.5rem;
+}
+
+#box-options{
+    display: flex;
+    flex-direction: row;
+}
